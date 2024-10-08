@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Ricardo Gabriel</h1>
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-GabrielX&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Ricardo-GabrielX&show_icons=true&theme=react" alt="Ricardo Github Stats" />
+<div style="display: flex; justify-content: space-between; width: 600px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-GabrielX&layout=compact&height=150&width=300" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ricardo-GabrielX&show_icons=true&theme=react&height=150&width=300" alt="Ricardo Github Stats" />
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
