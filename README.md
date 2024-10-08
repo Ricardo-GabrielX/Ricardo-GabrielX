@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ricardo Gabriel</h1>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-GabrielX&layout=compact)
 
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricardo-GabrielX&show_icons=true&theme=react)
 
@@ -10,9 +11,3 @@
 </p>
 
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ricardo-GabrielX&" alt="seu-username" /></p>
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-GabrielX&layout=compact)
