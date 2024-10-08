@@ -9,4 +9,4 @@
 </p>
 
 
-![Ricardo GitHub stats](https://github-readme-stats.vercel.app/api?username==Ricardo-GabrielX&show_icons=true&theme=react)
+![Ricardo GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricardo-GabrielX&show_icons=true&theme=react)
