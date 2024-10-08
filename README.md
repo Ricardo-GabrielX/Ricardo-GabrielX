@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **[Habilidades ou Projetos Principais]**
 
-- 📫 How to reach me **[Seu Email]**
+- 📫 How to reach me **gabrieloliveira280807@gmail.com**
 
 - ⚡ Fun fact **[Curiosidade sobre Você]**
 
