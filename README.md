@@ -24,11 +24,7 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seu-username&show_icons=true&locale=en&layout=compact" alt="seu-username" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&locale=en" alt="seu-username" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seu-username&" alt="seu-username" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ricardo-GabrielX&" alt="seu-username" /></p>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-GabrielX&hide_progress=true)
