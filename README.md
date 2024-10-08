@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ricardo Gabriel</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=seu-username&label=Profile%20views&color=0e75b6&style=flat" alt="seu-username" /> </p>
-
-<p align="left"> <a href="https://github.com/seu-username?tab=followers"><img src="https://img.shields.io/github/followers/seu-username?label=Followers&style=social" alt="seu-username" /></a> </p>
-
 
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricardo-GabrielX&show_icons=true&theme=transparent)
 
