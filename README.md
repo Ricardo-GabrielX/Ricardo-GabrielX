@@ -34,3 +34,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-GabrielX&hide_progress=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-GabrielX&layout=pie)](https://github.com/Ricardo-GabrielX/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-GabrielX&layout=compact)
