@@ -7,14 +7,10 @@
 
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricardo-GabrielX&show_icons=true&theme=transparent)
 
-- 📫 How to reach me **gabrieloliveira280807@gmail.com**
-
-- ⚡ Fun fact **[Curiosidade sobre Você]**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/seu-username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="seu-username" height="30" width="40" /></a>
-<a href="https://instagram.com/seu-username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="seu-username" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ricardo-gabriel-vianna-de-oliveira-820b541b8/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="ricardo-gabriel-vianna-de-oliveira-820b541b8/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
