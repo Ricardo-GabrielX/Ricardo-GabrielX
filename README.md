@@ -32,9 +32,6 @@
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
   </a>
-  <a href="https://nodejs.org/en/" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  </a>
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   </a>
