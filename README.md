@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning **[Tecnologia ou Linguagem]**
 
 - 💬 Ask me about **[Habilidades ou Projetos Principais]**
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 - 📫 How to reach me **gabrieloliveira280807@gmail.com**
 
