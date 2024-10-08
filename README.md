@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ricardo Gabriel</h1>
+<h1 align="center">Oi, Eu sou Ricardo Gabriel</h1>
 
 <div align="center" style="display: flex; justify-content: space-around; width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-GabrielX&layout=compact&theme=react" alt="Top Languages" />
@@ -7,7 +7,7 @@
 
 ---
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Fale comigo:</h3>
 
 <p align="center">
   <a href="https://github.com/Ricardo-GabrielX" target="_blank">
@@ -23,7 +23,7 @@
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Linguagens e Ferramentas que mais uso:</h3>
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
