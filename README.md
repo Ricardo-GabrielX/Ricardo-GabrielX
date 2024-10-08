@@ -4,9 +4,7 @@
 
 <p align="left"> <a href="https://github.com/seu-username?tab=followers"><img src="https://img.shields.io/github/followers/seu-username?label=Followers&style=social" alt="seu-username" /></a> </p>
 
-- 🌱 I’m currently learning **[Tecnologia ou Linguagem]**
 
-- 💬 Ask me about **[Habilidades ou Projetos Principais]**
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 - 📫 How to reach me **gabrieloliveira280807@gmail.com**
