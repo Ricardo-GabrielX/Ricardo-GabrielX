@@ -9,4 +9,4 @@
 </p>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-GabrielX&layout=compact)
+![Ricardo GitHub stats](https://github-readme-stats.vercel.app/api?username==Ricardo-GabrielX&show_icons=true&theme=react)
