@@ -1,5 +1,6 @@
 <h1 align="center">Oi, Eu sou Ricardo Gabriel</h1>
-## Sobre:
+
+<h2>Sobre:</h2> 
 
 Oi, me chamo Ricardo Gabriel, tenho 17 anos. Amo tecnologia e estou atrás da minha primeira oportunidade como dev. 
 
