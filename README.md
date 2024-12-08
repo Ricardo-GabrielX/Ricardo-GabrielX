@@ -1,4 +1,12 @@
 <h1 align="center">Oi, Eu sou Ricardo Gabriel</h1>
+## Sobre:
+
+Oi, me chamo Ricardo Gabriel, tenho 17 anos. Amo tecnologia e estou atrás da minha primeira oportunidade como dev. 
+
+<h1>Portfólio:</h1>
+
+[Veja meu portfólio](https://porfolio-sigma-azure.vercel.app/)
+
 
 <div align="center" style="display: flex; justify-content: space-around; width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-GabrielX&layout=compact&theme=react" alt="Top Languages" />
