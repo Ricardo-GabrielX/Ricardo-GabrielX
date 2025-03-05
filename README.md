@@ -2,7 +2,7 @@
 
 ## Sobre: 
 
-Oi, me chamo Ricardo Gabriel, tenho 17 anos. Amo tecnologia e estou atrás da minha primeira oportunidade como dev. 
+Oi, me chamo Ricardo Gabriel, tenho 17 anos. Amo tecnologia e estou atrás da minha primeira oportunidade como dev. Mas precisamente tentando arrumar um estágio, gosto da área de Web e mobile e me interesso também por Design.
 
 # Portfólio:
 
